@@ -2,4 +2,4 @@ function sum(a,b) {
     return a + b;
 }
 
-sum(3,6);
+console.log("The sum of two numbers: "+sum(3,6));
