@@ -2,4 +2,4 @@ function Diff(a,b) {
     return a - b;
 }
 
-Diff(4,2)
+console.log(Diff(4,2));
