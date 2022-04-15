@@ -2,4 +2,4 @@ function divide(a,b) {
     return a/b;
 }
 
-divide(6,3)
+console.log("the division of two numbers : " +divide(6,3));
